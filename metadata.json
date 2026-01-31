@@ -1,0 +1,8 @@
+{
+  "name": "QuranLens Video Editor",
+  "description": "A high-end Quranic video creation studio. Select verses, choose atmospheric backgrounds, and customize typography to create beautiful Quranic content for social media.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
